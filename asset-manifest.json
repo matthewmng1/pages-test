@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/pages-test/static/css/main.a45cce40.css",
+    "main.js": "/pages-test/static/js/main.f7138fe7.js",
+    "static/js/787.fbd4e1e7.chunk.js": "/pages-test/static/js/787.fbd4e1e7.chunk.js",
+    "static/media/steam_background.jpeg": "/pages-test/static/media/steam_background.5d594bd765058eec0df3.jpeg",
+    "static/media/steam_binary.jpeg": "/pages-test/static/media/steam_binary.19560cf128d3ecf6a7f6.jpeg",
+    "static/media/steam_bluelogo.png": "/pages-test/static/media/steam_bluelogo.e964a3ae1417cac23a8d.png",
+    "static/media/steam_logo.svg": "/pages-test/static/media/steam_logo.844c39a4abb853c85a7c65cfde4aa1d2.svg",
+    "index.html": "/pages-test/index.html",
+    "main.a45cce40.css.map": "/pages-test/static/css/main.a45cce40.css.map",
+    "main.f7138fe7.js.map": "/pages-test/static/js/main.f7138fe7.js.map",
+    "787.fbd4e1e7.chunk.js.map": "/pages-test/static/js/787.fbd4e1e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a45cce40.css",
+    "static/js/main.f7138fe7.js"
+  ]
+}
